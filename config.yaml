@@ -1,0 +1,7 @@
+name: sinabot
+version: 1
+cron:
+    - description: cron autoRun
+      url: index.php
+      schedule: every 5 mins
+      timezone: Beijing
